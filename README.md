@@ -1,7 +1,6 @@
 # dwl-foreign-toplevel
 foreign-toplevel patch for dwl(main branch)
 
-通用场景
 This patch is required by some tools like: 
 
 - 1. [waybar wlr/taskbar module](https://github.com/Alexays/Waybar/wiki/Module:-Taskbar)
