@@ -6,7 +6,8 @@ This patch is required by some tools like:
 
 - 1. [waybar wlr/taskbar module](https://github.com/Alexays/Waybar/wiki/Module:-Taskbar)
 
-![image](https://github.com/DreamMaoMao/dwl-foreign-toplevel/assets/30348075/1e314d4e-710d-4c92-92e1-52476660321d)
+![image](https://github.com/DreamMaoMao/dwl-foreign-toplevel/assets/30348075/dc4be407-51b2-404f-928a-1cae53ed03f2)
+
 
 - 2. [dunst](https://github.com/dunst-project/dunst)
 
